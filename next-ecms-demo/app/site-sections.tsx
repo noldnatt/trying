@@ -11,6 +11,7 @@ export function HomeHero() {
           src="/images/hero-1.jpg"
           alt="Caring at home"
           fill
+          sizes="100vw"
           priority
           className="object-cover"
         />
